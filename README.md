@@ -1,1 +1,2 @@
-# test
+# qr-activation-system
+Trigger Vercel deployment
